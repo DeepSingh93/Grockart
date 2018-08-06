@@ -1,0 +1,106 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Admin.master.cs" Inherits="Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Grockart Admin</title>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+
+    <!--include the Roboto font-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+
+    <!-- Latest compiled and minified CSS for bootstrap-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <%--include the Grockart css file--%>
+    <link href="assets/css/Grockart.css" rel="stylesheet" />
+
+    <%--include the font icon fonts--%>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script src="assets/js/admin.js"></script>
+
+    <script src="assets/js/Grockart.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="header">
+        <div class="linear-activity showLoader adminLoader-background-color" id="headerLoader">
+            <div class="indeterminate adminLoader-background-color-intermediate"></div>
+        </div>
+        <div class="primary-admin-background-color primary-white">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 menu-left">
+                        <img src="assets/images/logo.png" onclick="location.href='admin'" class="menu-logo" alt="Grockart logo" />
+                        <span class="adminText">ADMIN</span>
+                    </div>
+                    <div class="col-lg-4 menu-center" id="rightMenu">
+                        <div class="row">
+                            <div class="col-lg-12" id="userAdminProfile" runat="server">
+                                Hi,
+                                <asp:Label ID="userName" runat="server" Text="Label"></asp:Label>
+                                <br />
+                                My Account
+                                <img class="down-arrow" src="assets/images/right-arrow-white.png" />
+                                <div class="row MasterAdminProfile hideElement" id="MasterProfile">
+                                    <div class="row">
+                                        <img class="top-arrow-img" src="assets/images/right-arrow-white.png" />
+                                    </div>
+                                    <a href="Signout">
+                                        <div class="col-lg-12" id="menuRows">
+                                            <div class="row menuItem bold normalRow">
+                                                LOGOUT
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="col-lg-12 admin__container">
+            <div class="row col-lg-12">
+                <div class="admin-breadcrumbs">
+                    <span><a href="Default_home.aspx">HOME</a></span>
+                    <span>
+                        <img src="assets/images/right-arrow.png" />
+                    </span>
+                    <asp:ContentPlaceHolder ID="ContentPageName" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+        </div>
+    </div>
+    <form id="form1" runat="server">
+        <div class="container">
+            <div class="row pl15px">
+                <div class=" col-lg-3">
+                    <div id="admin-menu-items" class="admin-menu-items">
+                    </div>
+                    <div class="footer">
+                        COPYRIGHT 2018, Grockart. All rights reserved. All images belong to respective copyright holders. No infringement intended.
+                    </div>
+                </div>
+                <div class="col-lg-9">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

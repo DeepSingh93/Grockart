@@ -1,0 +1,30 @@
+<GrockartLog>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 00:33:04</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 00:33:04</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+</GrockartLog>

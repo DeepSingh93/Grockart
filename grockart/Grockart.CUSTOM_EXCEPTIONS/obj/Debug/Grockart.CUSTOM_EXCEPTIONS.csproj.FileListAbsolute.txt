@@ -1,0 +1,7 @@
+C:\Users\deep_\source\repos\Group10\grockart\Grockart.CUSTOM_EXCEPTIONS\bin\Debug\Grockart.CUSTOM_EXCEPTIONS.dll.config
+C:\Users\deep_\source\repos\Group10\grockart\Grockart.CUSTOM_EXCEPTIONS\bin\Debug\Grockart.CUSTOM_EXCEPTIONS.dll
+C:\Users\deep_\source\repos\Group10\grockart\Grockart.CUSTOM_EXCEPTIONS\bin\Debug\Grockart.CUSTOM_EXCEPTIONS.pdb
+C:\Users\deep_\source\repos\Group10\grockart\Grockart.CUSTOM_EXCEPTIONS\obj\Debug\Grockart.CUSTOM_EXCEPTIONS.csprojAssemblyReference.cache
+C:\Users\deep_\source\repos\Group10\grockart\Grockart.CUSTOM_EXCEPTIONS\obj\Debug\Grockart.CUSTOM_EXCEPTIONS.csproj.CoreCompileInputs.cache
+C:\Users\deep_\source\repos\Group10\grockart\Grockart.CUSTOM_EXCEPTIONS\obj\Debug\Grockart.CUSTOM_EXCEPTIONS.dll
+C:\Users\deep_\source\repos\Group10\grockart\Grockart.CUSTOM_EXCEPTIONS\obj\Debug\Grockart.CUSTOM_EXCEPTIONS.pdb

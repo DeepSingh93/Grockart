@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "grockart", "grockart\", "{A668C16C-6F96-4BA3-A8E5-94A8E0E7D45F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		ProjectReferences = "{3e1de1ff-f09a-439b-8f07-fd2ca33aeec8}|Grockart.BUSINESSLAYER.dll;{1D74A875-F710-4172-99FC-E7081A17860A}|Grockart.DATALAYER.dll;{A0038E9C-378C-4C9D-B367-30D27F87CF5A}|Grockart.CRYPTOGRAPHY.dll;{6c6056f3-146d-486c-95d1-dde9d5f3865a}|Grockart.CUSTOM_RESPONSE_CLASSES.dll;{e2a1c27a-41f7-4595-8c73-9e4bb5e757a6}|Grockart.LOGGER.dll;{ce5b762a-f47a-4dc6-a50b-ca55f0029b6f}|Grockart.STORAGE.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50225"
+		Debug.AspNetCompiler.PhysicalPath = "grockart\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50225\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50225"
+		Release.AspNetCompiler.PhysicalPath = "grockart\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50225\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50225"
+		SlnRelativePath = "grockart\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grockart.DATALAYER", "Grockart.DATALAYER\Grockart.DATALAYER.csproj", "{1D74A875-F710-4172-99FC-E7081A17860A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grockart.BUSINESSLAYER", "Grockart.BUSINESSLAYER\Grockart.BUSINESSLAYER.csproj", "{3E1DE1FF-F09A-439B-8F07-FD2CA33AEEC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grockart.CRYPTOGRAPHY", "Grockart.CRYPTOGRAPHY\Grockart.CRYPTOGRAPHY.csproj", "{A0038E9C-378C-4C9D-B367-30D27F87CF5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GROCKART.LOGGER", "GROCKART.LOGGER\GROCKART.LOGGER.csproj", "{E2A1C27A-41F7-4595-8C73-9E4BB5E757A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GROCKART.CUSTOM_RESPONSE_CLASSES", "GROCKART.CUSTOM_RESPONSE_CLASSES\GROCKART.CUSTOM_RESPONSE_CLASSES.csproj", "{6C6056F3-146D-486C-95D1-DDE9D5F3865A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grockart.STORAGE", "Grockart.STORAGE\Grockart.STORAGE.csproj", "{CE5B762A-F47A-4DC6-A50B-CA55F0029B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grockart.Tests", "Grockart.DATALAYERTests3\Grockart.Tests.csproj", "{987F07F0-3529-4C89-9E26-2E11A42D6C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A668C16C-6F96-4BA3-A8E5-94A8E0E7D45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A668C16C-6F96-4BA3-A8E5-94A8E0E7D45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A668C16C-6F96-4BA3-A8E5-94A8E0E7D45F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A668C16C-6F96-4BA3-A8E5-94A8E0E7D45F}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{1D74A875-F710-4172-99FC-E7081A17860A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D74A875-F710-4172-99FC-E7081A17860A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D74A875-F710-4172-99FC-E7081A17860A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D74A875-F710-4172-99FC-E7081A17860A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E1DE1FF-F09A-439B-8F07-FD2CA33AEEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1DE1FF-F09A-439B-8F07-FD2CA33AEEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1DE1FF-F09A-439B-8F07-FD2CA33AEEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1DE1FF-F09A-439B-8F07-FD2CA33AEEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0038E9C-378C-4C9D-B367-30D27F87CF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0038E9C-378C-4C9D-B367-30D27F87CF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0038E9C-378C-4C9D-B367-30D27F87CF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0038E9C-378C-4C9D-B367-30D27F87CF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A1C27A-41F7-4595-8C73-9E4BB5E757A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A1C27A-41F7-4595-8C73-9E4BB5E757A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A1C27A-41F7-4595-8C73-9E4BB5E757A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A1C27A-41F7-4595-8C73-9E4BB5E757A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6056F3-146D-486C-95D1-DDE9D5F3865A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6056F3-146D-486C-95D1-DDE9D5F3865A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6056F3-146D-486C-95D1-DDE9D5F3865A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6056F3-146D-486C-95D1-DDE9D5F3865A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5B762A-F47A-4DC6-A50B-CA55F0029B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5B762A-F47A-4DC6-A50B-CA55F0029B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5B762A-F47A-4DC6-A50B-CA55F0029B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5B762A-F47A-4DC6-A50B-CA55F0029B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987F07F0-3529-4C89-9E26-2E11A42D6C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987F07F0-3529-4C89-9E26-2E11A42D6C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987F07F0-3529-4C89-9E26-2E11A42D6C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987F07F0-3529-4C89-9E26-2E11A42D6C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DE9BDAB-7E53-4641-8691-56DE99FC6023}
+	EndGlobalSection
+EndGlobal

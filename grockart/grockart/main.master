@@ -1,0 +1,193 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="main.master.cs" Inherits="main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Grockart - Your one place for all online grocery shopping needs</title>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+
+    <!--include the Roboto font-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+
+    <!-- Latest compiled and minified CSS for bootstrap-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <%--include the Grockart css file--%>
+    <link href="/assets/css/Grockart.css" rel="stylesheet" />
+
+    <%--include the font icon fonts--%>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script src="/assets/js/Grockart.js"></script>
+</head>
+<body>
+    <div class="header">
+        <div class="linear-activity showLoader" id="headerLoader">
+            <div class="indeterminate"></div>
+        </div>
+        <div class="primary-background-color primary-white">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-1 menu-header ">
+                        <i class="material-icons cursor-pointer" id="menuMaster">menu</i>
+                        <div class="masterMenu hideElement">
+                            <div class="col-md-4 no-padding" id="menu">
+                            </div>
+                            <div class="col-md-4 " id="subMenu">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 menu-middle">
+                        <img src="/assets/images/logo.png" onclick="location.href='/'" class="menu-logo" alt="Grockart logo" />
+                    </div>
+                    <div class="col-lg-3 menu-right">
+                        <div class="row">
+                            <div class="col-lg-8" id="userProfile" runat="server" visible="false">
+                                Hi,
+                                <asp:Label ID="userName" runat="server" Text="Label"></asp:Label>
+                                <br />
+                                <div id="rightMenu">
+                                    My Account
+                                    <img class="down-arrow" src="/assets/images/right-arrow-white.png" />
+                                </div>
+                                <div class="row MasterProfile hideElement" id="MasterProfile">
+                                    <div class="linear-activity showLoader" id="ProfileMenuLoader">
+                                        <div class="indeterminate"></div>
+                                    </div>
+                                    <div class="row">
+                                        <img class="top-arrow-img" src="/assets/images/right-arrow-white.png" />
+                                    </div>
+                                    <div class="row no-margin" id="GrouOrderStatistics">
+                                        <div class="groupOrderStatistics">
+                                            Group Order Statistics
+                                        </div>
+                                        <div class="col-lg-6 menu-first-row-items menu-first-row-items-first-col">
+                                            You Owe
+                                                <div class="bold" id="UserMenu_Owe_Amount">
+                                                    -
+                                                </div>
+                                        </div>
+                                        <div class="col-lg-6 menu-first-row-items menu-first-row-items-second-col">
+                                            You Paid
+                                                 <div class="bold" id="UserMenu_Paid_Amount">
+                                                     -
+                                                 </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12" id="loaderRow">
+                                        <div class="row menuItem bold loaderRow" id="MenuLoader">
+                                            MENU IS LOADING
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12 hideElement" id="menuRows">
+                                        <a href="/admin">
+                                            <div class="row menuItem adminRow hideElement" id="adminRow">
+                                                Admin Panel
+                                            </div>
+                                        </a>
+                                        <a href="/orders">
+                                            <div class="row menuItem bold normalRow">
+                                                My Orders
+                                            </div>
+                                        </a>
+                                        <a href="/Cart">
+                                            <div class="row menuItem bold normalRow">
+                                                Cart
+                                            </div>
+                                        </a>
+                                        <a href="/signout?r=<% Response.Write(HttpContext.Current.Request.Url.AbsoluteUri); %>">
+                                            <div class="row menuItem bold normalRow">
+                                                Sign Out
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 text-center" id="loginLabel" runat="server">
+                                <a href="/Login">LOGIN
+                                </a>
+                            </div>
+                            <div class="col-lg-4 text-center" id="registerLabel" runat="server">
+                                <a href="/Register">REGISTER
+                                </a>
+                            </div>
+                            <div class="col-lg-4 text-center" id="master_cart">
+                                <img class="cart-image cursor-pointer" onclick="$('#master_page_CART').slideDown('fast');$('#MasterProfile').slideUp('fast');LoadCart();" src="/assets/images/cart.png" />
+                                <div class="cartHeaderMenu shadowAroundBox hideElement" id="master_page_CART">
+                                    <img class="top-arrow-img" src="/assets/images/right-arrow-white.png">
+                                    <div class="linear-activity" id="cartLoader">
+                                        <div class="indeterminate"></div>
+                                    </div>
+                                    <div class="row cart-loader-warn-header p10px hideElement no-margin" id="cart_warn_status">
+                                    </div>
+                                    <div class="row cart-loader-header p10px" id="cart__status">
+                                        UPDATING CART
+                                    </div>
+                                    <div id="emptyCartMenu" class="text-center hideElement">
+                                        <img class="emptyCartImageMenu" src="/assets/images/logoWithoutText.png" />
+                                        <div class="emptyCartMenuText">
+                                            YOUR CART IS EMPTY
+                                        </div>
+                                        <div onclick="$('#master_page_CART').slideUp('fast');" class="checkout-text cursor-pointer color-white primary-admin-background-color">
+                                            CLOSE
+                                        </div>
+                                    </div>
+                                    <div id="notEmptyCartMenu">
+                                        <div class="master_cart_clear_all primary-admin-color cursor-pointer" onclick="ClearCart()">CLEAR ALL</div>
+                                        <div class="cart-menu-items" id="Cart_Master_ITEMS">
+                                        </div>
+                                        <div id="Master_MENU_Checkout" class="checkout-text color-white primary-background-color cursor-pointer col-lg-6">
+                                            CHECKOUT
+                                        </div>
+                                        <div onclick="$('#master_page_CART').slideUp('fast');" class="checkout-text cursor-pointer color-white primary-admin-background-color">
+                                            CLOSE
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="sub-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-2 primary-white">
+                    <a href="/Products">TODAY'S BEST DEALS
+                    </a>
+                </div>
+                <div class="col-lg-8 primary-white">
+                </div>
+                <div class="col-lg-2 primary-white text-right">
+                    <a href="/orders">ORDER STATUS
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <div class="footer">
+        COPYRIGHT 2018, Grockart. All rights reserved. All images belong to respective copyright holders. No infringement intended.<br />
+    </div>
+    <script src="/assets/js/cart.js"></script>
+</body>
+</html>

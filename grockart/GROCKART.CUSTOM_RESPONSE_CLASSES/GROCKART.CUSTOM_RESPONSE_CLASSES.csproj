@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6C6056F3-146D-486C-95D1-DDE9D5F3865A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Grockart.CUSTOM_RESPONSE_CLASSES</RootNamespace>
+    <AssemblyName>Grockart.CUSTOM_RESPONSE_CLASSES</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Address.cs" />
+    <Compile Include="AdminListResponse.cs" />
+    <Compile Include="AuthAdminResponse.cs" />
+    <Compile Include="AuthUserResponse.cs" />
+    <Compile Include="APIResponse.cs" />
+    <Compile Include="Cart.cs" />
+    <Compile Include="CategoryListResponse.cs" />
+    <Compile Include="EncryptedCardDetails.cs" />
+    <Compile Include="IAddress.cs" />
+    <Compile Include="IEncryptedCardDetails.cs" />
+    <Compile Include="IOrderBuilderResponse.cs" />
+    <Compile Include="IOrder.cs" />
+    <Compile Include="IProduct.cs" />
+    <Compile Include="ICategory.cs" />
+    <Compile Include="IProductByStore.cs" />
+    <Compile Include="IProvince.cs" />
+    <Compile Include="IStores.cs" />
+    <Compile Include="IUserProfile.cs" />
+    <Compile Include="LoginUserReponse.cs" />
+    <Compile Include="MenuResponse.cs" />
+    <Compile Include="OrderBuilderResponse.cs" />
+    <Compile Include="Order.cs" />
+    <Compile Include="ProductsOnly.cs" />
+    <Compile Include="Category.cs" />
+    <Compile Include="ProductByStore.cs" />
+    <Compile Include="ProductResponse.cs" />
+    <Compile Include="Products.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterResponse.cs" />
+    <Compile Include="SettingsList.cs" />
+    <Compile Include="StoreListResponse.cs" />
+    <Compile Include="Stores.cs" />
+    <Compile Include="TokenListResponse.cs" />
+    <Compile Include="UserProfile.cs" />
+    <Compile Include="UserProfileMenuResponse.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GROCKART.LOGGER\GROCKART.LOGGER.csproj">
+      <Project>{E2A1C27A-41F7-4595-8C73-9E4BB5E757A6}</Project>
+      <Name>GROCKART.LOGGER</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

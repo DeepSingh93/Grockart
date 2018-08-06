@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3E1DE1FF-F09A-439B-8F07-FD2CA33AEEC8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Grockart.BUSINESSLAYER</RootNamespace>
+    <AssemblyName>Grockart.BUSINESSLAYER</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\grockart\Bin\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddressBusinessLayerTemplate.cs" />
+    <Compile Include="AdminUserTemplate.cs" />
+    <Compile Include="AllOrdersTemplate.cs" />
+    <Compile Include="CancelledOrdersTemplate.cs" />
+    <Compile Include="CardDetailsBusinessLayerTemplate.cs" />
+    <Compile Include="CategoryBusinessLayerTemplate.cs" />
+    <Compile Include="CRUDBusinessLayerTemplate.cs" />
+    <Compile Include="AbstractProductBuilder.cs" />
+    <Compile Include="GetOrderDetails.cs" />
+    <Compile Include="GroupOrderTemplate.cs" />
+    <Compile Include="IndividualOrderTemplate.cs" />
+    <Compile Include="ISecurity.cs" />
+    <Compile Include="MaintenanceMode.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="NormalUserTemplate.cs" />
+    <Compile Include="OrderBuilderAbstract.cs" />
+    <Compile Include="OrderCreatedTemplate.cs" />
+    <Compile Include="OrderCreator.cs" />
+    <Compile Include="OrderDetailsTemplate.cs" />
+    <Compile Include="OrderBusinessLayerTemplate.cs" />
+    <Compile Include="OrderTypeTemplate.cs" />
+    <Compile Include="ConcreteProductBuilder.cs" />
+    <Compile Include="ProductBuilderResponse.cs" />
+    <Compile Include="ProductBusinessLayerTemplate.cs" />
+    <Compile Include="DBVersion.cs" />
+    <Compile Include="ProductByStoreBusinessLayerTemplate.cs" />
+    <Compile Include="ProductList.cs" />
+    <Compile Include="OrderBuilder.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Province.cs" />
+    <Compile Include="Security.cs" />
+    <Compile Include="SettingsFromDB.cs" />
+    <Compile Include="ShippedOrdersTemplate.cs" />
+    <Compile Include="StoreBusinessLayerTemplate.cs" />
+    <Compile Include="TaxManagement.cs" />
+    <Compile Include="UnpaidOrdersTemplate.cs" />
+    <Compile Include="UserActions.cs" />
+    <Compile Include="UserTemplate.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Grockart.CRYPTOGRAPHY\Grockart.CRYPTOGRAPHY.csproj">
+      <Project>{a0038e9c-378c-4c9d-b367-30d27f87cf5a}</Project>
+      <Name>Grockart.CRYPTOGRAPHY</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GROCKART.CUSTOM_RESPONSE_CLASSES\GROCKART.CUSTOM_RESPONSE_CLASSES.csproj">
+      <Project>{6C6056F3-146D-486C-95D1-DDE9D5F3865A}</Project>
+      <Name>GROCKART.CUSTOM_RESPONSE_CLASSES</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Grockart.DATALAYER\Grockart.DATALAYER.csproj">
+      <Project>{1d74a875-f710-4172-99fc-e7081a17860a}</Project>
+      <Name>Grockart.DATALAYER</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GROCKART.LOGGER\GROCKART.LOGGER.csproj">
+      <Project>{E2A1C27A-41F7-4595-8C73-9E4BB5E757A6}</Project>
+      <Name>GROCKART.LOGGER</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Grockart.STORAGE\Grockart.STORAGE.csproj">
+      <Project>{CE5B762A-F47A-4DC6-A50B-CA55F0029B6F}</Project>
+      <Name>Grockart.STORAGE</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,15 @@
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Butter", 10, "images\\butter.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Buttermilk", 15, "images\\buttermilk.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Chaas", 10, "images\\chaas.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Cheese",15, "images\\cheese.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Cottage Cheese", 20, "images\\cottage_cheese.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Cream", 25, "images\\cream.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Curd", 10, "images\\curd.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Ghee", 30, "images\\ghee.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Ice Cream", 10, "images\\ice_cream.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Khoa", 20, "images\\khoa.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Kulfi",40, "images\\kulfi.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Lassi", 25, "images\\lassi.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Malai", 30, "images\\malai.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Milk", 35, "images\\milk.png");
+INSERT INTO tbl_product (productName, quantity, productImage) VALUE ( "Yogurt", 20, "images\\yogurt.png");

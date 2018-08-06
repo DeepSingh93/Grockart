@@ -1,0 +1,72 @@
+<GrockartLog>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 00:34:07</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 00:34:07</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>WARN</level>
+    <date>12-07-2018 00:34:06</date>
+    <exceptionType>WarnDebug</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Anonymous user tried to access the Admin panel, but failed</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.WarnDebug: Anonymous user tried to access the Admin panel, but failed</stackTrace>
+    <BackgroundColor>warn-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 00:33:51</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 00:33:51</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+</GrockartLog>

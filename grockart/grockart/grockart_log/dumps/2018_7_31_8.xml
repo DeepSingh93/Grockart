@@ -1,0 +1,136 @@
+<GrockartLog>
+  <log>
+    <level>FATAL</level>
+    <date>31-07-2018 21:58:15</date>
+    <exceptionType>MySqlException</exceptionType>
+    <functionName>ReadPacket</functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>0</lineNumber>
+    <message>Unknown column 'CardNumEncrypt' in 'field list'</message>
+    <stackTrace>MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CardNumEncrypt' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32&amp; affectedRow, Int64&amp; insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32&amp; affectedRows, Int64&amp; insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(String commandText, Object commandType, Object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 69</stackTrace>
+    <BackgroundColor>fatal-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>FATAL</level>
+    <date>31-07-2018 21:56:27</date>
+    <exceptionType>MySqlException</exceptionType>
+    <functionName>Select</functionName>
+    <fileLocation>C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\CardDetailsDataLayer.cs</fileLocation>
+    <lineNumber>51</lineNumber>
+    <message>Unknown column 'CardNumEncrypt' in 'field list'</message>
+    <stackTrace>MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CardNumEncrypt' in 'field list'
+   at Grockart.DATALAYER.CardDetailsDataLayer.Select() in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\CardDetailsDataLayer.cs:line 51
+   at Grockart.BUSINESSLAYER.CardDetailsBusinessLayerTemplate.Select() in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\CardDetailsBusinessLayerTemplate.cs:line 29</stackTrace>
+    <BackgroundColor>fatal-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>FATAL</level>
+    <date>31-07-2018 21:56:27</date>
+    <exceptionType>MySqlException</exceptionType>
+    <functionName>ExecuteQuery</functionName>
+    <fileLocation>C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs</fileLocation>
+    <lineNumber>76</lineNumber>
+    <message>Unknown column 'CardNumEncrypt' in 'field list'</message>
+    <stackTrace>MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CardNumEncrypt' in 'field list'
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(String commandText, Object commandType, Object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 76
+   at Grockart.DATALAYER.CardDetailsDataLayer.Select() in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\CardDetailsDataLayer.cs:line 31</stackTrace>
+    <BackgroundColor>fatal-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>FATAL</level>
+    <date>31-07-2018 21:56:27</date>
+    <exceptionType>MySqlException</exceptionType>
+    <functionName>ReadPacket</functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>0</lineNumber>
+    <message>Unknown column 'CardNumEncrypt' in 'field list'</message>
+    <stackTrace>MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'CardNumEncrypt' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32&amp; affectedRow, Int64&amp; insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32&amp; affectedRows, Int64&amp; insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(String commandText, Object commandType, Object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 69</stackTrace>
+    <BackgroundColor>fatal-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>FATAL</level>
+    <date>31-07-2018 21:55:53</date>
+    <exceptionType>MySqlException</exceptionType>
+    <functionName>ExecuteQuery</functionName>
+    <fileLocation>C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs</fileLocation>
+    <lineNumber>76</lineNumber>
+    <message>Authentication to host 'db-5308.cs.dal.ca' for user 'CSCI5308_10_DEVINT_USER' using method 'mysql_native_password' failed with message: Reading from the stream has failed.</message>
+    <stackTrace>MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host 'db-5308.cs.dal.ca' for user 'CSCI5308_10_DEVINT_USER' using method 'mysql_native_password' failed with message: Reading from the stream has failed. ---&gt; MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---&gt; System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---&gt; System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(String commandText, Object commandType, Object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 76
+   at Grockart.DATALAYER.ConfigurableBusinessLogic.FetchSettingsFromDB(Settings SettingsObj) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\SettingsDataLayer.cs:line 22</stackTrace>
+    <BackgroundColor>fatal-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>FATAL</level>
+    <date>31-07-2018 21:55:53</date>
+    <exceptionType>MySqlException</exceptionType>
+    <functionName>AuthenticationFailed</functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>0</lineNumber>
+    <message>Authentication to host 'db-5308.cs.dal.ca' for user 'CSCI5308_10_DEVINT_USER' using method 'mysql_native_password' failed with message: Reading from the stream has failed.</message>
+    <stackTrace>MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host 'db-5308.cs.dal.ca' for user 'CSCI5308_10_DEVINT_USER' using method 'mysql_native_password' failed with message: Reading from the stream has failed. ---&gt; MySql.Data.MySqlClient.MySqlException (0x80004005): Reading from the stream has failed. ---&gt; System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---&gt; System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MySql.Data.MySqlClient.TimedStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.ReadFully(Stream stream, Byte[] buffer, Int32 offset, Int32 count)
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.LoadPacket()
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.HandleAuthChange(MySqlPacket packet)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(String commandText, Object commandType, Object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 60</stackTrace>
+    <BackgroundColor>fatal-background-color</BackgroundColor>
+  </log>
+</GrockartLog>

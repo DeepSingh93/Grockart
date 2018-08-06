@@ -1,0 +1,10 @@
+﻿{
+  "exceptionList": [
+    {
+      "500": [ "DB Connection issues", "Error Code - 500, this event has been logged" ],
+      "600": [ "DB Connection issues", "Error Code - 600, Unable to connect to database" ],
+      "700": [ "Maintenance Mode", "Currently the site is in mainteance mode. Please try again later" ],
+      "404": [ "Content not found", "Error Code - 404" ]
+    }
+  ]
+}

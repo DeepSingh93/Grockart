@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/grockart/.vs
+/grockart/web.config
+/grockart/web.config.debug
+/.vs/slnx.sqlite-journal
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+.vs/Group10/v15/.suo
+/grockart/Grockart.DATALAYERTests/obj/Debug/Grockart.DATALAYERTests.csprojAssemblyReference.cache
+/grockart/Grockart.DATALAYERTests/obj/Debug/Grockart.DATALAYERTests.csproj.CoreCompileInputs.cache
+/grockart/Grockart.BUSINESSLAYERTests2/obj/Debug/Grockart.BUSINESSLAYERTests2.csproj.CoreCompileInputs.cache
+/grockart/Grockart.DATALAYER/obj/Debug/Grockart.DATALAYER.csproj.CoreCompileInputs.cache
+/grockart/Grockart.DATALAYER/obj/Debug/Grockart.DATALAYER.csprojAssemblyReference.cache
+/grockart/Grockart.DATALAYERTests1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+/grockart/Grockart.DATALAYERTests1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/grockart/Grockart.DATALAYERTests1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs

@@ -1,0 +1,3152 @@
+<GrockartLog>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:55</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:55</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:55</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:54</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>FATAL</level>
+    <date>12-07-2018 10:33:54</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>deep.prakash.singh.3@gmail.com tried to access the admin panel but failed. </message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: deep.prakash.singh.3@gmail.com tried to access the admin panel but failed. </stackTrace>
+    <BackgroundColor>fatal-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:54</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:54</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com fetched admin list </message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com fetched admin list </stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com searched for user deep</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com searched for user deep</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com removed deep.prakash.singh.3@gmail.com</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com removed deep.prakash.singh.3@gmail.com</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:49</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:48</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:48</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:48</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:21</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:21</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:20</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>deep.prakash.singh.3@gmail.com fetched admin list </message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: deep.prakash.singh.3@gmail.com fetched admin list </stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:20</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:20</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:20</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:20</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:20</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:20</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:20</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:20</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:20</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:20</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com searched for user deep</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com searched for user deep</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com fetched admin list </message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com fetched admin list </stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com added deep.prakash.singh.3@gmail.com</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com added deep.prakash.singh.3@gmail.com</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:33:15</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>FATAL</level>
+    <date>12-07-2018 10:27:33</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>deep.prakash.singh.3@gmail.com tried to access the admin panel but failed. </message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: deep.prakash.singh.3@gmail.com tried to access the admin panel but failed. </stackTrace>
+    <BackgroundColor>fatal-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:33</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:33</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com fetched admin list </message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com fetched admin list </stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com searched for user deep</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com searched for user deep</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com removed deep.prakash.singh.3@gmail.com</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com removed deep.prakash.singh.3@gmail.com</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:19</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:18</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:18</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:18</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:10</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:10</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:10</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>deep.prakash.singh.3@gmail.com fetched category list </message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: deep.prakash.singh.3@gmail.com fetched category list </stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:10</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:10</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:10</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:10</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:10</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:10</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:09</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:09</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:09</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:09</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:07</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:07</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:07</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>deep.prakash.singh.3@gmail.com fetched admin list </message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: deep.prakash.singh.3@gmail.com fetched admin list </stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:07</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:07</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:07</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:07</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:07</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:07</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:07</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:06</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:06</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:27:06</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:56</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:56</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:56</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:56</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:56</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:56</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:55</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:55</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:55</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:55</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:55</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:55</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:55</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:55</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:55</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:55</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:50</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:50</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:47</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:47</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:46</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:46</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:46</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:46</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:40</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com searched for user deep</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com searched for user deep</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:40</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:40</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:40</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:40</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:40</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:40</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com fetched admin list </message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com fetched admin list </stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com added deep.prakash.singh.3@gmail.com</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com added deep.prakash.singh.3@gmail.com</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:39</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:32</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com searched for user deep</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com searched for user deep</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:32</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:32</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:32</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:32</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:32</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:32</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:29</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:29</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:29</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>demoadmin@demoadmin.com fetched admin list </message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: demoadmin@demoadmin.com fetched admin list </stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:29</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:29</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:29</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:29</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:29</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:29</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:29</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:29</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:29</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:29</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:26</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:26</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:26</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:26</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:26</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:26</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:25</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:25</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:25</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:25</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:25</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:25</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:25</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:25</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:25</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:25</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:21</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:21</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:17</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:17</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:16</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:00</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:00</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:00</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:00</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:00</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:26:00</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:59</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:59</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:59</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:59</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:59</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:59</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:59</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:59</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:59</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:59</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>WARN</level>
+    <date>12-07-2018 10:25:54</date>
+    <exceptionType>WarnDebug</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Authentication failed for email : deep.prakash.singh.3@gmail.com</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.WarnDebug: Authentication failed for email : deep.prakash.singh.3@gmail.com</stackTrace>
+    <BackgroundColor>warn-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:54</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:54</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:47</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:47</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>DEBUG</level>
+    <date>12-07-2018 10:25:43</date>
+    <exceptionType>LogDebug</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>A debug text</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogDebug: A debug text</stackTrace>
+    <BackgroundColor>debug-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:43</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Closing the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Closing the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+  <log>
+    <level>INFO</level>
+    <date>12-07-2018 10:25:42</date>
+    <exceptionType>LogInfo</exceptionType>
+    <functionName>
+    </functionName>
+    <fileLocation>
+    </fileLocation>
+    <lineNumber>
+    </lineNumber>
+    <message>Opening the connection</message>
+    <stackTrace>Grockart.CUSTOM_EXCEPTIONS.LogInfo: Opening the connection</stackTrace>
+    <BackgroundColor>Info-background-color</BackgroundColor>
+  </log>
+</GrockartLog>

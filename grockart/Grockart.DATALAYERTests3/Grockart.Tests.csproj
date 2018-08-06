@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.props" Condition="Exists('..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{987F07F0-3529-4C89-9E26-2E11A42D6C9E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Grockart.Tests</RootNamespace>
+    <AssemblyName>Grockart.Tests</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
+    <IsCodedUITest>False</IsCodedUITest>
+    <TestProjectType>UnitTest</TestProjectType>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MSTest.TestFramework.1.2.1\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MSTest.TestFramework.1.2.1\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\grockart\Bin\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
+  </ItemGroup>
+  <Choose>
+    <When Condition="('$(VisualStudioVersion)' == '10.0' or '$(VisualStudioVersion)' == '') and '$(TargetFrameworkVersion)' == 'v3.5'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+      </ItemGroup>
+    </When>
+    <Otherwise />
+  </Choose>
+  <ItemGroup>
+    <Compile Include="AllOrdersTemplate_BuildOrder_Tests.cs" />
+    <Compile Include="CancelledOrdersTemplate_OrderBuilders_Tests.cs" />
+    <Compile Include="GroupOrderTemplate_AllOrders_Tests.cs" />
+    <Compile Include="GroupOrderTemplate_CancelledOrders_Tests.cs" />
+    <Compile Include="GroupOrderTemplate_OrderCreated_Tests.cs" />
+    <Compile Include="GroupOrderTemplate_ShippedOrders_Tests.cs" />
+    <Compile Include="GroupOrderTemplate_UnpaidOrders_Tests.cs" />
+    <Compile Include="IndividualOrderTemplate_AllOrders_Tests.cs" />
+    <Compile Include="IndividualOrderTemplate_CancelledOrder_Tests.cs" />
+    <Compile Include="IndividualOrderTemplate_OrderCreated_Tests.cs" />
+    <Compile Include="IndividualOrderTemplate_ShippedOrder_Tests.cs" />
+    <Compile Include="IndividualOrderTemplate_UnpaidOrder_Tests.cs" />
+    <Compile Include="MySQLAdminDataLayerTests_AddAdmin_Tests.cs" />
+    <Compile Include="MySQLAdminDataLayerTests_FetchAdminList_Tests.cs" />
+    <Compile Include="MySQLAdminDataLayerTests_FetchUserList_Tests.cs" />
+    <Compile Include="MySQLAdminDataLayerTests_RemoveAdmin_Tests.cs" />
+    <Compile Include="MySQLProductDataLayer_AddCategory_Tests.cs" />
+    <Compile Include="MySQLProductDataLayer_AddProduct_Tests.cs" />
+    <Compile Include="MySQLProductDataLayer_FetchCategoryList_Tests.cs" />
+    <Compile Include="MySQLProductDataLayer_FetchProductList_Tests.cs" />
+    <Compile Include="MySQLProductDataLayer_ModifyCategory_Tests.cs" />
+    <Compile Include="MySQLProductDataLayer_ModifyProduct_Tests.cs" />
+    <Compile Include="MySQLProductDataLayer_RemoveCategory_Tests.cs" />
+    <Compile Include="MySQLProductDataLayer_RemoveProduct_Tests.cs" />
+    <Compile Include="MySQLStoreDataLayer_AddStore_Tests.cs" />
+    <Compile Include="MySQLStoreDataLayer_FetchStoreList_Tests.cs" />
+    <Compile Include="MySQLStoreDataLayer_ModifyStore_Tests.cs" />
+    <Compile Include="MySQLStoreDataLayer_RemoveStore_Tests.cs" />
+    <Compile Include="MySQLUserDataLayer_AuthenticateUser_Tests.cs" />
+    <Compile Include="MySQLUserDataLayer_GetTokenList_Tests.cs" />
+    <Compile Include="MySQLUserDataLayer_RegisterUser_Tests.cs" />
+    <Compile Include="OrderBuilder_BuildOrderAmount_Tests.cs" />
+    <Compile Include="OrderBuilder_BuildOrderDate_Tests.cs" />
+    <Compile Include="OrderBuilder_BuildOrderItemCount_Tests.cs" />
+    <Compile Include="OrderBuilder_BuildOrderStatus_Tests.cs" />
+    <Compile Include="OrderBuilder_BuildOrderStores_Tests.cs" />
+    <Compile Include="OrderCreatedTemplate_OrderBuilders_Tests.cs" />
+    <Compile Include="OrderDetails_FetchOrderDetailsByTypeAndStatus_Tests.cs" />
+    <Compile Include="OrderDetails_FetchOrderDetailsByType_Tests.cs" />
+    <Compile Include="ProductOnlyTemplate_AddProductOnly_Tests.cs" />
+    <Compile Include="ProductOnlyTemplate_FetchProductOnly_Tests.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShippedOrdersTemplate_BuildOrders_Tests.cs" />
+    <Compile Include="UnpaidOrdersTemplate_BuildOrders_Tests.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Grockart.BUSINESSLAYER\Grockart.BUSINESSLAYER.csproj">
+      <Project>{3E1DE1FF-F09A-439B-8F07-FD2CA33AEEC8}</Project>
+      <Name>Grockart.BUSINESSLAYER</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GROCKART.CUSTOM_RESPONSE_CLASSES\GROCKART.CUSTOM_RESPONSE_CLASSES.csproj">
+      <Project>{6C6056F3-146D-486C-95D1-DDE9D5F3865A}</Project>
+      <Name>GROCKART.CUSTOM_RESPONSE_CLASSES</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Grockart.DATALAYER\Grockart.DATALAYER.csproj">
+      <Project>{1D74A875-F710-4172-99FC-E7081A17860A}</Project>
+      <Name>Grockart.DATALAYER</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Choose>
+    <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.CodedUITestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Extension, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITesting, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+      </ItemGroup>
+    </When>
+  </Choose>
+  <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.props'))" />
+    <Error Condition="!Exists('..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets'))" />
+  </Target>
+  <Import Project="..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets" Condition="Exists('..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

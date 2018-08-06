@@ -1,0 +1,16 @@
+.vs/*
+grockart/GROCKART.CUSTOM_RESPONSE_CLASSES/*
+grockart/GROCKART.LOGGER/*
+grockart/Grockart.BUSINESSLAYER/*
+grockart/Grockart.CLIENTSTORAGE/*
+grockart/Grockart.CRYPTOGRAPHY/*
+grockart/Grockart.CUSTOM_EXCEPTIONS/*
+grockart/Grockart.DATALAYER/*
+grockart/Grockart.DATALAYERTests3/*
+grockart/Grockart.STORAGE/*
+grockart/packages/*
+grockart/grockart.sln
+grockart/grockart/Bin/Grockart.credentials.dll
+grockart/grockart/Bin/Grockart.credentials.pdb
+grockart/grockart/Bin/Grockart.credentials.dll.config
+grockart/grockart/grockart_log/dumps/*

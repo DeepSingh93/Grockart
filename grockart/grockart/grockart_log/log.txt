@@ -1,0 +1,796 @@
+----------------------------------------------
+Time : 16-06-2018 17:27:46
+MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host 'db-5308.cs.dal.ca' for user 'CSCI5308_10_DEVINT_USER' using method 'mysql_native_password' failed with message: Access denied for user 'CSCI5308_10_DEVINT_USER'@'24-224-253-87.eastlink.ca' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'CSCI5308_10_DEVINT_USER'@'24-224-253-87.eastlink.ca' (using password: YES)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(String commandText, object commandType, object[] commandParameters) in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\App_Code\Datalayer\MySQLCommands.cs:line 59
+   at Grockart.BUSINESSLAYER.DBVersion.get_getDBVersion() in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\App_Code\BusinessLayer\DBVersion.cs:line 27
+----------------------------------------------
+Time : 16-06-2018 17:28:10
+MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host 'db-5308.cs.dal.ca' for user 'CSCI5308_10_DEVINT_USER' using method 'mysql_native_password' failed with message: Access denied for user 'CSCI5308_10_DEVINT_USER'@'24-224-253-87.eastlink.ca' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'CSCI5308_10_DEVINT_USER'@'24-224-253-87.eastlink.ca' (using password: YES)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(String commandText, object commandType, object[] commandParameters) in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\App_Code\Datalayer\MySQLCommands.cs:line 59
+   at Grockart.BUSINESSLAYER.DBVersion.get_getDBVersion() in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\App_Code\BusinessLayer\DBVersion.cs:line 27
+----------------------------------------------
+Time : 16-06-2018 17:29:55
+MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host 'db-5308.cs.dal.ca' for user 'CSCI5308_10_DEVINT_USER' using method 'mysql_native_password' failed with message: Access denied for user 'CSCI5308_10_DEVINT_USER'@'24-224-253-87.eastlink.ca' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'CSCI5308_10_DEVINT_USER'@'24-224-253-87.eastlink.ca' (using password: YES)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(String commandText, object commandType, object[] commandParameters) in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\App_Code\Datalayer\MySQLCommands.cs:line 59
+   at Grockart.BUSINESSLAYER.DBVersion.get_getDBVersion() in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\App_Code\BusinessLayer\DBVersion.cs:line 27
+----------------------------------------------
+Time : 16-06-2018 17:39:24
+MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host 'db-5308.cs.dal.ca' for user 'CSCI5308_10_DEVINT_USER' using method 'mysql_native_password' failed with message: Access denied for user 'CSCI5308_10_DEVINT_USER'@'24-224-253-87.eastlink.ca' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'CSCI5308_10_DEVINT_USER'@'24-224-253-87.eastlink.ca' (using password: YES)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(String commandText, object commandType, object[] commandParameters) in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\App_Code\Datalayer\MySQLCommands.cs:line 59
+   at Grockart.BUSINESSLAYER.DBVersion.get_getDBVersion() in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\App_Code\BusinessLayer\DBVersion.cs:line 27
+----------------------------------------------
+Time : 16-06-2018 17:40:55
+MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host 'db-5308.cs.dal.ca' for user 'CSCI5308_10_DEVINT_USER' using method 'mysql_native_password' failed with message: Access denied for user 'CSCI5308_10_DEVINT_USER'@'24-224-253-87.eastlink.ca' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'CSCI5308_10_DEVINT_USER'@'24-224-253-87.eastlink.ca' (using password: YES)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(String commandText, object commandType, object[] commandParameters) in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\App_Code\Datalayer\MySQLCommands.cs:line 59
+   at Grockart.BUSINESSLAYER.DBVersion.get_getDBVersion() in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\App_Code\BusinessLayer\DBVersion.cs:line 26
+   at main.Page_Load(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\main.master.cs:line 12
+----------------------------------------------
+Time : 17-06-2018 00:37:59
+MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host 'db-5308.cs.dal.ca' for user 'CSCI5308_10_DEVINT_USER' using method 'mysql_native_password' failed with message: Access denied for user 'CSCI5308_10_DEVINT_USER'@'24-224-253-87.eastlink.ca' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'CSCI5308_10_DEVINT_USER'@'24-224-253-87.eastlink.ca' (using password: YES)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Authenticate(String authMethod, Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(String commandText, object commandType, object[] commandParameters) in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\App_Code\Datalayer\MySQLCommands.cs:line 59
+   at Grockart.BUSINESSLAYER.DBVersion.get_getDBVersion() in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\App_Code\BusinessLayer\DBVersion.cs:line 26
+   at main.Page_Load(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\main.master.cs:line 12
+----------------------------------------------
+Time : 17-06-2018 15:16:24
+System.IO.FileNotFoundException: Could not load file or assembly 'Grockart.credentials, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+File name: 'Grockart.credentials, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+   at Grockart.DATALAYER.MySQLConnection.Initialize()
+   at Grockart.DATALAYER.MySQLCommands.Initialize() in C:\Users\deep_\source\repos\Group10\Grockart\Grockart.DATALAYER\MySQLCommands.cs:line 21
+   at Grockart.BUSINESSLAYER.DBVersion.get_getDBVersion() in C:\Users\deep_\source\repos\Group10\Grockart\Grockart.BUSINESSLAYER\DBVersion.cs:line 20
+   at main.Page_Load(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\main.master.cs:line 13
+
+WRN: Assembly binding logging is turned OFF.
+To enable assembly bind failure logging, set the registry value [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) to 1.
+Note: There is some performance penalty associated with assembly bind failure logging.
+To turn this feature off, remove the registry value [HKLM\Software\Microsoft\Fusion!EnableLog].
+
+----------------------------------------------
+Time : 18-06-2018 17:56:00
+System.FormatException: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+   at System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at Grockart.CRYPTOGRAPHY.AES256.Encrypt(String plaintext) in C:\Users\deep_\source\repos\Group10\Grockart\Grockart.CRYPTOGRAPHY\AES256.cs:line 41
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\api\register.aspx.cs:line 58
+----------------------------------------------
+Time : 18-06-2018 17:59:31
+System.FormatException: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+   at System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at Grockart.CRYPTOGRAPHY.AES256.Encrypt(String plaintext) in C:\Users\deep_\source\repos\Group10\Grockart\Grockart.CRYPTOGRAPHY\AES256.cs:line 41
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\api\register.aspx.cs:line 58
+----------------------------------------------
+Time : 18-06-2018 18:06:18
+System.FormatException: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+   at System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at Grockart.CRYPTOGRAPHY.AES256.Encrypt(String plaintext) in C:\Users\deep_\source\repos\Group10\Grockart\Grockart.CRYPTOGRAPHY\AES256.cs:line 41
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\api\register.aspx.cs:line 58
+----------------------------------------------
+Time : 18-06-2018 18:11:42
+System.FormatException: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+   at System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at Grockart.CRYPTOGRAPHY.AES256.Encrypt(String plaintext) in C:\Users\deep_\source\repos\Group10\Grockart\Grockart.CRYPTOGRAPHY\AES256.cs:line 41
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\api\register.aspx.cs:line 74
+----------------------------------------------
+Time : 18-06-2018 18:14:13
+System.FormatException: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+   at System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   at System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   at System.Convert.FromBase64String(String s)
+   at Grockart.CRYPTOGRAPHY.AES256.Encrypt(String plaintext) in C:\Users\deep_\source\repos\Group10\Grockart\Grockart.CRYPTOGRAPHY\AES256.cs:line 41
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\api\register.aspx.cs:line 60
+----------------------------------------------
+Time : 18-06-2018 23:59:02
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.Net.Sockets.SocketException (0x80004005): An operation was attempted on something that is not a socket
+   at System.Net.Sockets.Socket..ctor(AddressFamily addressFamily, SocketType socketType, ProtocolType protocolType)
+   at System.Net.Sockets.TcpClient.initialize()
+   at System.Net.Sockets.TcpClient..ctor(AddressFamily family)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.Common.StreamCreator.GetStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\Source\Repos\Group10\Grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.DBVersion.get_GetDBVersion() in C:\Users\deep_\source\repos\Group10\Grockart\Grockart.BUSINESSLAYER\DBVersion.cs:line 28
+   at main.Page_Load(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\Grockart\Grockart\main.master.cs:line 12
+----------------------------------------------
+Time : 19-06-2018 12:40:23
+System.ArgumentException: Parameter 'paramToken' not found in the collection.
+   at MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   at MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   at MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   at MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 186
+----------------------------------------------
+Time : 19-06-2018 12:40:30
+System.ArgumentException: Parameter 'paramToken' not found in the collection.
+   at MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   at MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   at MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   at MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 186
+----------------------------------------------
+Time : 19-06-2018 12:41:46
+System.ArgumentException: Parameter 'paramToken' not found in the collection.
+   at MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   at MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   at MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   at MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 186
+----------------------------------------------
+Time : 19-06-2018 12:42:28
+System.ArgumentException: Parameter 'paramToken' not found in the collection.
+   at MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   at MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   at MySql.Data.MySqlClient.StoredProcedure.CheckParameters(String spName)
+   at MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 186
+----------------------------------------------
+Time : 19-06-2018 12:43:46
+System.InvalidOperationException: Fill: SelectCommand.Connection property has not been initialized.
+   at System.Data.Common.DbDataAdapter.GetConnection3(DbDataAdapter adapter, IDbCommand command, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.DBVersion.get_GetDBVersion() in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\DBVersion.cs:line 28
+   at main.Page_Load(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\main.master.cs:line 14
+----------------------------------------------
+Time : 19-06-2018 12:57:15
+MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`CSCI5308_10_DEVINT`.`tbl_Login`, CONSTRAINT `FK_251` FOREIGN KEY (`roleID`) REFERENCES `tbl_user_role` (`roleID`))
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 86
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\grockart\grockart\api\register.aspx.cs:line 29
+----------------------------------------------
+Time : 19-06-2018 12:59:12
+MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`CSCI5308_10_DEVINT`.`tbl_Login`, CONSTRAINT `FK_251` FOREIGN KEY (`roleID`) REFERENCES `tbl_user_role` (`roleID`))
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 86
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\grockart\grockart\api\register.aspx.cs:line 29
+----------------------------------------------
+Time : 19-06-2018 12:59:29
+MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`CSCI5308_10_DEVINT`.`tbl_Login`, CONSTRAINT `FK_251` FOREIGN KEY (`roleID`) REFERENCES `tbl_user_role` (`roleID`))
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 86
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\grockart\grockart\api\register.aspx.cs:line 29
+----------------------------------------------
+Time : 19-06-2018 13:00:01
+MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`CSCI5308_10_DEVINT`.`tbl_Login`, CONSTRAINT `FK_251` FOREIGN KEY (`roleID`) REFERENCES `tbl_user_role` (`roleID`))
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 86
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\grockart\grockart\api\register.aspx.cs:line 29
+----------------------------------------------
+Time : 19-06-2018 13:00:01
+MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`CSCI5308_10_DEVINT`.`tbl_Login`, CONSTRAINT `FK_251` FOREIGN KEY (`roleID`) REFERENCES `tbl_user_role` (`roleID`))
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 86
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\grockart\grockart\api\register.aspx.cs:line 29
+----------------------------------------------
+Time : 19-06-2018 13:00:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`CSCI5308_10_DEVINT`.`tbl_Login`, CONSTRAINT `FK_251` FOREIGN KEY (`roleID`) REFERENCES `tbl_user_role` (`roleID`))
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 86
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\grockart\grockart\api\register.aspx.cs:line 29
+----------------------------------------------
+Time : 19-06-2018 13:02:47
+MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`CSCI5308_10_DEVINT`.`tbl_Login`, CONSTRAINT `FK_251` FOREIGN KEY (`roleID`) REFERENCES `tbl_user_role` (`roleID`))
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 86
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\grockart\grockart\api\register.aspx.cs:line 29
+----------------------------------------------
+Time : 19-06-2018 13:03:55
+MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`CSCI5308_10_DEVINT`.`tbl_Login`, CONSTRAINT `FK_251` FOREIGN KEY (`roleID`) REFERENCES `tbl_user_role` (`roleID`))
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 86
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\grockart\grockart\api\register.aspx.cs:line 29
+----------------------------------------------
+Time : 19-06-2018 13:04:57
+MySql.Data.MySqlClient.MySqlException (0x80004005): Cannot add or update a child row: a foreign key constraint fails (`CSCI5308_10_DEVINT`.`tbl_Login`, CONSTRAINT `FK_251` FOREIGN KEY (`roleID`) REFERENCES `tbl_user_role` (`roleID`))
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 86
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\grockart\grockart\api\register.aspx.cs:line 29
+----------------------------------------------
+Time : 19-06-2018 13:05:33
+MySql.Data.MySqlClient.MySqlException (0x80004005): Column 'uID' cannot be null
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 86
+   at api_register.RegisterUser() in c:\Users\deep_\source\repos\Group10\grockart\grockart\api\register.aspx.cs:line 29
+----------------------------------------------
+Time : 19-06-2018 16:00:02
+System.NullReferenceException: object reference not set to an instance of an object.
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 34
+   at _Default.registerButton_Click(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 32
+----------------------------------------------
+Time : 19-06-2018 16:00:15
+System.NullReferenceException: object reference not set to an instance of an object.
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 34
+   at _Default.registerButton_Click(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 32
+----------------------------------------------
+Time : 19-06-2018 16:01:09
+System.NullReferenceException: object reference not set to an instance of an object.
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 34
+   at _Default.registerButton_Click(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 32
+----------------------------------------------
+Time : 19-06-2018 16:01:35
+System.NullReferenceException: object reference not set to an instance of an object.
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 34
+   at _Default.registerButton_Click(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 32
+----------------------------------------------
+Time : 19-06-2018 16:03:13
+System.NullReferenceException: object reference not set to an instance of an object.
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 34
+   at _Default.registerButton_Click(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 32
+----------------------------------------------
+Time : 19-06-2018 16:05:34
+System.NullReferenceException: object reference not set to an instance of an object.
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 34
+   at _Default.registerButton_Click(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 32
+----------------------------------------------
+Time : 19-06-2018 16:05:59
+System.NullReferenceException: object reference not set to an instance of an object.
+   at Grockart.BUSINESSLAYER.UserFactory.RegisterUser(String firstname, String lastname, String email, String password) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 34
+   at _Default.registerButton_Click(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 32
+----------------------------------------------
+Time : 19-06-2018 17:04:30
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at _Default.registerButton_Click(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 29
+----------------------------------------------
+Time : 19-06-2018 17:06:07
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at _Default.registerButton_Click(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 29
+----------------------------------------------
+Time : 19-06-2018 17:06:57
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at _Default.registerButton_Click(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 29
+----------------------------------------------
+Time : 19-06-2018 17:07:56
+System.Exception: Exception of type 'System.Exception' was thrown.
+   at _Default.registerButton_Click(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 29
+----------------------------------------------
+Time : 20-06-2018 02:08:10
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at _Default.registerButton_Click(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 82
+----------------------------------------------
+Time : 20-06-2018 02:08:17
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:08:19
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:11:43
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:11:47
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:12:01
+System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at Grockart.BUSINESSLAYER.UserFactory.LoginUser(String email, String password) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 258
+----------------------------------------------
+Time : 20-06-2018 02:12:58
+System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at Grockart.BUSINESSLAYER.UserFactory.LoginUser(String email, String password) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 258
+----------------------------------------------
+Time : 20-06-2018 02:13:38
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:13:41
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:13:48
+System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at Grockart.BUSINESSLAYER.UserFactory.LoginUser(String email, String password) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 258
+----------------------------------------------
+Time : 20-06-2018 02:14:54
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:14:59
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:16:26
+System.IndexOutOfRangeException: There is no row at position 0.
+   at System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   at System.Data.DataRowCollection.get_Item(Int32 index)
+   at Grockart.BUSINESSLAYER.UserFactory.LoginUser(String email, String password) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 258
+----------------------------------------------
+Time : 20-06-2018 02:18:06
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:18:11
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:25:39
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:25:46
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:25:58
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:26:43
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:27:32
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'token' in 'where clause'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Grockart.DATALAYER.MySQLCommands.ExecuteQuery(IConnection SQLConnection, String commandText, object commandType, object[] commandParameters) in C:\Users\deep_\source\repos\Group10\grockart\Grockart.DATALAYER\MySQLCommands.cs:line 57
+   at Grockart.BUSINESSLAYER.UserFactory.GetUserDetails(String token) in C:\Users\deep_\Source\Repos\Group10\grockart\Grockart.BUSINESSLAYER\UserFactory.cs:line 204
+----------------------------------------------
+Time : 20-06-2018 02:50:30
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at _Default.registerButton_Click(object sender, EventArgs e) in c:\Users\deep_\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 88
+----------------------------------------------
+Time : 2018-07-04 3:24:11 PM
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.Thread.AbortInternal()
+   at System.Threading.Thread.Abort(object stateInfo)
+   at System.Web.HttpResponse.AbortCurrentThread()
+   at System.Web.HttpResponse.End()
+   at System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   at System.Web.HttpResponse.Redirect(String url)
+   at _Default.RegisterButton_Click(object sender, EventArgs e) in c:\Users\Mohit Malik\source\repos\Group10\grockart\grockart\Default_home.aspx.cs:line 88

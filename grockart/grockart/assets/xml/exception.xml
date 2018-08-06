@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<exceptionList>
+  <exception>
+    <id>-27</id>
+    <exceptionDescription>
+      Unable to authenticate with the given credentials or credentials expired, please relogin with correct credentials
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-26</id>
+    <exceptionDescription>
+      The output value from the stored procedure is null
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-25</id>
+    <exceptionDescription>
+      The input provided is null, please recheck the function calling
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-24</id>
+    <exceptionDescription>
+      Login required to access this functionality, please login to proceed
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-23</id>
+    <exceptionDescription>
+      GetMenu() function in MySQLUserDataLayer returned null, please check the stored procedure and function
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-22</id>
+    <exceptionDescription>
+      Unable to register this time, this event has been logged
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-21</id>
+    <exceptionDescription>
+      Unable to fetch the list of users, please check the logs
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-20</id>
+    <exceptionDescription>
+      FetchUserList method from datalayer returned null. Please check the stored procedure and database
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-19</id>
+    <exceptionDescription>
+      Unable to fetch the list of admins, please check the logs
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-18</id>
+    <exceptionDescription>
+      FetchAdminList method from datalayer returned null. Please check the stored procedure and database
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-17</id>
+    <exceptionDescription>
+      Invalid Token.
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-16</id>
+    <exceptionDescription>
+      Email param is null or invalid for the given function. Please check your code.
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-15</id>
+    <exceptionDescription>
+      Cookies are not enabled, please enable the cookies or use browser that has cookies enabled
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-14</id>
+    <exceptionDescription>
+      An Error occured while authenticating, please try again later. This event has been logged.
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-13</id>
+    <exceptionDescription>
+      Not Authorized, please login with correct credentials
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-12</id>
+    <exceptionDescription>
+      No products available
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-11</id>
+    <exceptionDescription>
+      Unable to fetch products this time, please try again later. This event has been logged
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-10</id>
+    <exceptionDescription>
+      Unable to retreive the menu contents, please try again later
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-9</id>
+    <exceptionDescription>
+      Unable to login to the system, please try again later. This event has been logged
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-8</id>
+    <exceptionDescription>
+      Invalid Email ID and password combination
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-7</id>
+    <exceptionDescription>
+      ERROR_OCCURED
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-6</id>
+    <exceptionDescription>
+      INVALID_FORM_PARAM
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-5</id>
+    <exceptionDescription>
+      Password not in correct format
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-4</id>
+    <exceptionDescription>
+      Email id is not in correct format
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-3</id>
+    <exceptionDescription>
+      Invalid last name
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-2</id>
+    <exceptionDescription>
+      Invalid first name
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>-1</id>
+    <exceptionDescription>
+      Email already exists, please use another email to register
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>0</id>
+    <exceptionDescription>
+      Success
+    </exceptionDescription>
+  </exception>
+  <exception>
+    <id>1</id>
+    <exceptionDescription>
+      Registered
+    </exceptionDescription>
+  </exception>
+</exceptionList>

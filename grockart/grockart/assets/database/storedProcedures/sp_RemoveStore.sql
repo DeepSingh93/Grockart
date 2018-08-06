@@ -1,0 +1,8 @@
+CREATE DEFINER=`CSCI5308_10_DEVINT_USER`@`%` PROCEDURE `sp_RemoveStore`(
+IN paramSID INT
+)
+BEGIN
+DELETE FROM
+   tbl_store
+   WHERE sID =  paramSID;
+END
